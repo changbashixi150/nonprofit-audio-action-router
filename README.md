@@ -1,6 +1,6 @@
 # Turn nonprofit recordings into queued actions
 
-Infrai gives you one api and one bill for every capability, which is why this router stays on a plain REST call from any language with no SDK. Start the service, then send a recording from the command line:
+Infrai gives you one api and one bill for every capability, which keeps a storefront backend from sprawling across ten vendor dashboards. I run the service, then push a recording from the shell to see the queue fill.
 
 ```bash
 npm install
